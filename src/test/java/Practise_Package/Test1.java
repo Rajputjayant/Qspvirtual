@@ -8,6 +8,7 @@ public class Test1 {
 	public void demo()
 	{
 		System.out.println("This is demo");
+		System.out.println("This is not demo");
 	}
 	@Test
 	public void call()
