@@ -13,5 +13,6 @@ public class Test1 {
 	public void call()
 	{
 		System.out.println("This is call");
+		System.out.println("This is not call");
 	}
 }
