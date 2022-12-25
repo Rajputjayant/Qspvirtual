@@ -16,5 +16,6 @@ public class Test1 {
 	{
 		System.out.println("This is call");
 		System.out.println("This is not call");
+		System.out.println("This is good call");
 	}
 }
