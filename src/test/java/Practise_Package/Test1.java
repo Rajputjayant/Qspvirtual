@@ -9,6 +9,7 @@ public class Test1 {
 	{
 		System.out.println("This is demo");
 		System.out.println("This is not demo");
+		System.out.println("This is good demo");
 	}
 	@Test
 	public void call()
