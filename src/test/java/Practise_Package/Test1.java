@@ -9,4 +9,9 @@ public class Test1 {
 	{
 		System.out.println("This is demo");
 	}
+	@Test
+	public void call()
+	{
+		System.out.println("This is call");
+	}
 }
